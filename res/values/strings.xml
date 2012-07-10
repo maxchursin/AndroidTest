@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="test_string">Not a Date any more</string>
+
+</resources>

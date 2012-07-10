@@ -1,0 +1,17 @@
+*.class
+*.dex
+bin/
+gen/
+target/
+libs/
+.classpath
+.project
+project.properties
+remind101.impl
+.idea/
+.settings/
+*.iml
+classes
+build.xml
+ant.properties
+local.properties
